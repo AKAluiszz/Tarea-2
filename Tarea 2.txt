@@ -1,7 +1,0 @@
-Instrucciones
-● Instalar Git
-● Aplicar cada uno de los comandos de Git vistos en el
-laboratorio.
-● Captura de pantalla de los comandos aplicados.
-● Subir el PDF con el nombre [IPC1]T2_carnet.pdf
-● Se entrega antes de las 23:59 del 15/02/2024.
